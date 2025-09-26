@@ -57,7 +57,7 @@ npx http-server -p 8000
 - Select your team from the dropdown (e.g., Team 09).
 - Click **Connect & Switch Network**.
 - Approve the network in MetaMask.
-  ![Screenshot: Connect & Switch Network](screenshots/connect.png)
+  ![Screenshot: Connect & Switch Network]
 
 ---
 
@@ -66,7 +66,7 @@ npx http-server -p 8000
 - Enter your **ERC-20 token address**.
 - Click **Load Token**.
 - The token name, symbol, decimals, and your balance will appear.
-  ![Screenshot: Load Token](screenshots/load_token.png)
+  ![Screenshot: Load Token]
 
 ---
 
@@ -76,14 +76,14 @@ npx http-server -p 8000
 - Click **Send**.
 - Your transaction hash and confirmation will appear in the log.
 - Balance updates automatically.
-  ![Screenshot: Transfer Tokens](screenshots/transfer.png)
+  ![Screenshot: Transfer Tokens]
 
 ---
 
 ### **4. Add Token to MetaMask**
 
 - Click **Add Token to MetaMask** to see your token in your wallet.
-  ![Screenshot: Add Token](screenshots/add_token.png)
+  ![Screenshot: Add Token]
 
 ---
 
