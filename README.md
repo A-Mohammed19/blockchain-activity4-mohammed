@@ -27,18 +27,11 @@ This single-file web app allows you to:
 
 ---
 
-## **Setup**
+## **Steps to Run **
 
-1. Create project folder:
+1. Download or clone the project files, including index.html.
 
-```bash
-mkdir didlab-dapp
-cd didlab-dapp
-```
-
-2. Create `index.html` and paste the DApp code.
-3. Edit the **CONFIG** block at the top with your team number and token address.
-4. Serve locally if your browser blocks `file://` module imports:
+2. Start a local web server from the project directory:
 
 ```bash
 python3 -m http.server 8000
