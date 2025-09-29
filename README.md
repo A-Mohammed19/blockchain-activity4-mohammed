@@ -21,7 +21,7 @@ This single-file web app allows you to:
 
 - Node.js v22.x installed.
 - MetaMask installed in your browser.
-- = **team’s DIDLab RPC**  = https://hh-09.didlab.org and **Chain ID** = 31345. Partner = Team 09 A. 
+- = **team’s DIDLab RPC**  = https://hh-09.didlab.org and **Chain ID** = 31345. Partner = Team 09 A. TOKEN_ADDRESS=0x8464135c8f25da09e49bc8782676a84730c318bc
 - Your **ERC-20 token address** deployed on your team network.
 - Faucet/private key imported into MetaMask so your account has ETH and tokens.
 
@@ -57,7 +57,7 @@ npx http-server -p 8000
 - Select your team from the dropdown (e.g., Team 09).
 - Click **Connect & Switch Network**.
 - Approve the network in MetaMask.
-  ![Screenshot: Connect & Switch Network]
+
 
 ---
 
@@ -66,7 +66,7 @@ npx http-server -p 8000
 - Enter your **ERC-20 token address**.
 - Click **Load Token**.
 - The token name, symbol, decimals, and your balance will appear.
-  ![Screenshot: Load Token]
+
 
 ---
 
@@ -76,14 +76,13 @@ npx http-server -p 8000
 - Click **Send**.
 - Your transaction hash and confirmation will appear in the log.
 - Balance updates automatically.
-  ![Screenshot: Transfer Tokens]
+
 
 ---
 
 ### **4. Add Token to MetaMask**
 
-- Click **Add Token to MetaMask** to see your token in your wallet.
-  ![Screenshot: Add Token]
+- Click **Add Token to MetaMask** to see your token in your wallet
 
 ---
 
