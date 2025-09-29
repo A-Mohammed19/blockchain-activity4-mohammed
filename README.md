@@ -21,7 +21,7 @@ This single-file web app allows you to:
 
 - Node.js v22.x installed.
 - MetaMask installed in your browser.
-- Your **team’s DIDLab RPC** and **Chain ID**.
+- = **team’s DIDLab RPC**  = https://hh-09.didlab.org and **Chain ID** = 31345. Partner = Team 09 A. 
 - Your **ERC-20 token address** deployed on your team network.
 - Faucet/private key imported into MetaMask so your account has ETH and tokens.
 
